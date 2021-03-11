@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* Org-Mode basics!
+** This is a smaller header.
+bold text: *Bold*
+italic text: /italic/
+underline text: _underline_
+strikethrough text: +strikethrough+
+combined: _/*combined*/_
