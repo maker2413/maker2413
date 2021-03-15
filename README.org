@@ -22,3 +22,4 @@ Hi there!
 - underline text: __underline__
 - strikethrough text: +strikethrough+
 - combined: _/*combined*/_
+'./Resume.pdf'
