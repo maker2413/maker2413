@@ -14,12 +14,3 @@ Hi there!
 # - 😄 Pronouns: ...
 # - ⚡ Fun fact: ...
 # -->
-
-* Org-Mode basics!
-** This is a smaller header.
-- bold text: *Bold*
-- italic text: /italic/
-- underline text: __underline__
-- strikethrough text: +strikethrough+
-- combined: _/*combined*/_
-'./Resume.pdf'
