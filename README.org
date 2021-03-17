@@ -1,4 +1,9 @@
-Hi there!
+Hi there! Welcome to my GitHub.
+This is primarily used as my playground to learn and test new tools and technologies.
+
+If you would like a copy of my Resume you can find it here:
+[PDF](../blob/main/Resume.pdf)
+# [JSON](../blob/main/Resume.json)
 
 # <!--
 # **maker2413/maker2413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
