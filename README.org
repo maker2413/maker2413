@@ -2,7 +2,7 @@ Hi there! Welcome to my GitHub.
 This is primarily used as my playground to learn and test new tools and technologies.
 
 If you would like a copy of my Resume you can find it here:
-[[file:'https://github.com/maker2413/maker2413/blob/main/Resume.pdf'][PDF]]
+* [['https://github.com/maker2413/maker2413/blob/main/Resume.pdf'][PDF]]
 # [JSON](../blob/main/Resume.json)
 
 # <!--
