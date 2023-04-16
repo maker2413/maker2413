@@ -1,23 +1,18 @@
 Hi there! Welcome to my GitHub.
-This is primarily used as my playground to learn and test new tools and technologies.
+This is primarily used as my playground to learn and test new tools and
+technologies. If you would like to learn more about me go to [[https://www.ethancpost.com][my website]]. If you
+feel that you can learn anything from me or the things I have learned I publicly
+publish all of the notes I have ever made: [[https://notes.ethancpost.com][here]].
 
 If you would like a copy of my Resume you can find it here:
 
 [[https://github.com/maker2413/maker2413/blob/main/Resume.pdf][PDF]]
 
-# [JSON](../blob/main/Resume.json)
-
-# <!--
-# **maker2413/maker2413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Here are some ideas to get you started:
-
 # 🔭 I’m currently working on ...
-# 🌱 I’m currently learning ...
+🌱 I’m currently learning about neural networks.
 # - 👯 I’m looking to collaborate on ...
 # - 🤔 I’m looking for help with ...
-# - 💬 Ask me about ...
-# - 📫 How to reach me: ...
-# - 😄 Pronouns: ...
+- 💬 Ask me about emacs and I'll talk your ear off.
+- 📫 How to reach me: ethancpost@gmail.com
 # - ⚡ Fun fact: ...
 # -->
