@@ -30,5 +30,18 @@ If you would like a copy of my Resume you can find it here:
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" /></a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/argo_cd-%23EF7B4D?style=for-the-badge" /></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+</p>
+#+END_HTML
+
+#+BEGIN_HTML
+<h3 align="center">Cloud</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=%23232F3E" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
 </p>
 #+END_HTML
