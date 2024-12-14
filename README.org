@@ -46,3 +46,7 @@ If you would like a copy of my Resume you can find it here:
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
 </p>
 #+END_HTML
+
+* Completed Courses
+  I'm not sure where else to store these, but [[./UdemyCerts/][here]] are the Udemy courses I have
+  completed.
