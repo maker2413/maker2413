@@ -47,6 +47,10 @@ If you would like a copy of my Resume you can find it here:
 </p>
 #+END_HTML
 
+* Boot.dev
+  You can also find me [[https://www.boot.dev/u/maker2413][Boot.Dev]]. I also will include all of my certs from
+  BootDev: [[./BootDevCerts/][here]]
+
 * Completed Courses
   I'm not sure where else to store these, but [[./UdemyCerts/][here]] are the Udemy courses I have
   completed.
