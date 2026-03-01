@@ -54,7 +54,9 @@ If you would like a copy of my Resume you can find it here:
 
   #+BEGIN_HTML
   <p align="center">
-    <img src="https://api.boot.dev/v1/users/public/6635ccba-ea97-4ffb-a474-ee05d5296fb6/thumbnail" >
+    <a href="https://www.boot.dev/u/maker2413">
+      <img src="https://api.boot.dev/v1/users/public/6635ccba-ea97-4ffb-a474-ee05d5296fb6/thumbnail">
+    </a>
   </p>
   #+END_HTML
 
